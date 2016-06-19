@@ -18,6 +18,7 @@ Awesome css sass | favorite-css-sass-js-libraries
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [Google material design](https://github.com/google/material-design-lite)
 * [Materializecss](https://github.com/Dogfalo/materialize)
+* [Fontello](https://github.com/fontello/fontello)
 
 ## Icons
 * [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
