@@ -23,18 +23,26 @@ Awesome css sass | favorite-css-sass-js-libraries
 ## Icons
 * [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 * [IonIcons](https://github.com/driftyco/ionicons)
+* [Weather-icons](https://github.com/erikflowers/weather-icons)
+* [octicons](https://github.com/primer/octicons)
 
 ## Animations
 * [Animate.css](https://github.com/daneden/animate.css)
 * [Hover](https://github.com/IanLunn/Hover)
+* [ihover](https://github.com/gudh/ihover)
+* [csshake](https://github.com/elrumordelaluz/csshake)
 
 ## Reset
 * [Normalize.css](https://github.com/necolas/normalize.css)
 * 
 
+## Filter
+* [CSSgram](https://github.com/una/CSSgram)
+* 
+
 ## Templats
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
-* 
+* [blur-admin](https://github.com/akveo/blur-admin)
   
 ## Tips
 * [Css-protips](https://github.com/AllThingsSmitty/css-protips)
@@ -47,3 +55,6 @@ Awesome css sass | favorite-css-sass-js-libraries
 ## page-loaders
 * [Loader.css](https://github.com/ConnorAtherton/loaders.css)
 * [Spinkit](https://github.com/tobiasahlin/SpinKit)
+* [Css-loaders](https://github.com/lukehaas/css-loaders)
+* 
+
