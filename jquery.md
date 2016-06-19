@@ -5,12 +5,14 @@ Awesome jquery | favorite-css-sass-js-libraries
 
 ## Table of Contents
 
-- [jQuery](#frameworks)
+- [Charts](#charts)
 - [s](#)
 - [s](#)
 - [s](#)
 - [s](#)
 - [s](#)
 
-## Essentials
-* [Laravel](http://laravel.com)
+## Charts
+* [Chart.js](https://github.com/chartjs/Chart.js)
+* [RaphaelJs](https://github.com/DmitryBaranovskiy/raphael)
+* [Chartist-js](https://github.com/gionkunz/chartist-js)
