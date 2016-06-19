@@ -15,7 +15,7 @@ Awesome jquery | favorite-css-sass-js-libraries
 
 ## Intro plugins
 * [Intro.js](https://github.com/usablica/intro.js)
-* 
+* [Bootstraptour](https://github.com/sorich87/bootstrap-tour)
 
 ## touchscreen
 * [touchwiper](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
@@ -71,6 +71,7 @@ Awesome jquery | favorite-css-sass-js-libraries
 ## images
 * [Parallax](https://github.com/wagerfield/parallax)
 * [Stellar.js](https://github.com/markdalgleish/stellar.js)
+* [parallax.js](https://github.com/pixelcog/parallax.js)
 * [Magnific-popup](https://github.com/dimsemenov/Magnific-Popup)
 * [Lazyload](https://github.com/tuupola/jquery_lazyload)
 * [imagesloaded](https://github.com/desandro/imagesloaded)
@@ -84,13 +85,19 @@ Awesome jquery | favorite-css-sass-js-libraries
 ## media
 * [videojs](https://github.com/videojs/video.js)
 * [FitVids.js](https://github.com/davatron5000/FitVids.js)
+* [BigVideo.js](https://github.com/dfcb/BigVideo.js)
+* [face detection](https://github.com/jaysalvat/jquery.facedetection)
 
 ## other stuff
 * [Particles.js](https://github.com/VincentGarreau/particles.js)
 * [GMaps](https://github.com/hpneo/gmaps)
+* https://github.com/ubilabs/geocomplete
 * [Favico.js](https://github.com/ejci/favico.js)
 * [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+* [nicescroll](https://github.com/inuyaksa/jquery.nicescroll)
 * [Scrollreveal.js](https://github.com/jlmakes/scrollreveal.js)
+* [slimScroll](https://github.com/rochal/jQuery-slimScroll)
+* [jscrollpane](https://github.com/vitch/jScrollPane)
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll)
 * [Sweetalert](https://github.com/t4t5/sweetalert)
 * [waypoints](https://github.com/imakewebthings/waypoints)
@@ -99,6 +106,11 @@ Awesome jquery | favorite-css-sass-js-libraries
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js)
 * [countUp.js](https://github.com/inorganik/countUp.js)
 * [scrollTo](https://github.com/flesler/jquery.scrollTo)
+* [payment](https://github.com/stripe/jquery.payment)
+* [clock and countdown](https://github.com/objectivehtml/FlipClock)
+* [countdown](https://github.com/hilios/jQuery.countdown)
+* [device.js](https://github.com/matthewhudson/device.js) - detect mobile devices
+* [Typed.js](http://www.mattboldt.com/demos/typed-js/)
 
 ## tutorials
 
