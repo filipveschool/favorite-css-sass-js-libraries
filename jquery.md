@@ -17,6 +17,9 @@ Awesome jquery | favorite-css-sass-js-libraries
 * [Intro.js](https://github.com/usablica/intro.js)
 * 
 
+## touchscreen
+* [touchwiper](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
+
 ## file-upload
 * [jQuery-file-upload](https://github.com/blueimp/jQuery-File-Upload)
 
@@ -24,6 +27,12 @@ Awesome jquery | favorite-css-sass-js-libraries
 * [Chart.js](https://github.com/chartjs/Chart.js)
 * [RaphaelJs](https://github.com/DmitryBaranovskiy/raphael)
 * [Chartist-js](https://github.com/gionkunz/chartist-js)
+* [Morris.js](https://github.com/morrisjs/morris.js)
+* [HighCharts](https://github.com/highcharts/highcharts)
+
+## typography
+* [FitText.js](https://github.com/davatron5000/FitText.js)
+* [FlowType.js](https://github.com/simplefocus/FlowType.JS)
 
 ## Jquery Presentations
 * [Impress.js](https://github.com/impress/impress.js)
@@ -38,7 +47,8 @@ Awesome jquery | favorite-css-sass-js-libraries
 * [WOW.js](https://github.com/matthieua/WOW)
 * [jquery.transit](https://github.com/rstacruz/jquery.transit)
 * [Velocity](https://github.com/julianshapiro/velocity)
-* Effeckt.css](https://github.com/h5bp/Effeckt.css)
+* [Effeckt.css](https://github.com/h5bp/Effeckt.css)
+* [Animsition](https://github.com/blivesta/animsition)
 
 ## Forms
 * [Pickadate.js](https://github.com/amsul/pickadate.js)
@@ -56,14 +66,24 @@ Awesome jquery | favorite-css-sass-js-libraries
 * [isotope](https://github.com/metafizzy/isotope)
 * [Sortable](https://github.com/RubaXa/Sortable)
 * [Masonry](https://github.com/desandro/masonry)
+* [MixItUp](https://github.com/patrickkunka/mixitup)
 
 ## images
 * [Parallax](https://github.com/wagerfield/parallax)
+* [Stellar.js](https://github.com/markdalgleish/stellar.js)
 * [Magnific-popup](https://github.com/dimsemenov/Magnific-Popup)
+* [Lazyload](https://github.com/tuupola/jquery_lazyload)
+* [imagesloaded](https://github.com/desandro/imagesloaded)
+* [retina.js](https://github.com/imulus/retinajs)
+* [fancybox](https://github.com/fancyapps/fancyBox)
+* 
+
+## Tables
+* [DataTables](https://github.com/DataTables/DataTables)
 
 ## media
 * [videojs](https://github.com/videojs/video.js)
-* 
+* [FitVids.js](https://github.com/davatron5000/FitVids.js)
 
 ## other stuff
 * [Particles.js](https://github.com/VincentGarreau/particles.js)
@@ -74,7 +94,11 @@ Awesome jquery | favorite-css-sass-js-libraries
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll)
 * [Sweetalert](https://github.com/t4t5/sweetalert)
 * [waypoints](https://github.com/imakewebthings/waypoints)
-* 
+* [Timesheet.js](https://github.com/sbstjn/timesheet.js)
+* [Rainyday.js](https://github.com/maroslaw/rainyday.js)
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js)
+* [countUp.js](https://github.com/inorganik/countUp.js)
+* [scrollTo](https://github.com/flesler/jquery.scrollTo)
 
 ## tutorials
 
