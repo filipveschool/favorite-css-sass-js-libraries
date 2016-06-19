@@ -13,9 +13,12 @@ Awesome jquery | favorite-css-sass-js-libraries
 - [s](#)
 - 
 
-##Intro plugins
+## Intro plugins
 * [Intro.js](https://github.com/usablica/intro.js)
 * 
+
+## file-upload
+* [jQuery-file-upload](https://github.com/blueimp/jQuery-File-Upload)
 
 ## Charts
 * [Chart.js](https://github.com/chartjs/Chart.js)
