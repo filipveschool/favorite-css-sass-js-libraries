@@ -45,3 +45,4 @@ Awesome css sass | favorite-css-sass-js-libraries
 
 ## page-loaders
 * [Loader.css](https://github.com/ConnorAtherton/loaders.css)
+* [Spinkit](https://github.com/tobiasahlin/SpinKit)
