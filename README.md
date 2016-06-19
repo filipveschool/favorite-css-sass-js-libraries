@@ -25,7 +25,7 @@ Awesome css sass | favorite-css-sass-js-libraries
 
 ## Animations
 * [Animate.css](https://github.com/daneden/animate.css)
-* 
+* [Hover](https://github.com/IanLunn/Hover)
 
 ## Reset
 * [Normalize.css](https://github.com/necolas/normalize.css)
