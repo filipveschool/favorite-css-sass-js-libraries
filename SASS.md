@@ -13,5 +13,7 @@ Awesome sass | favorite-css-sass-js-libraries
 - [s](#)
 - [s](#)
 
-## Essentials
-* [Laravel](http://laravel.com)
+## Frameworks
+* [Bourbon](https://github.com/thoughtbot/bourbon)
+* [Compass](https://github.com/Compass/compass)
+
